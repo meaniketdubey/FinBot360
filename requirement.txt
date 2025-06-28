@@ -1,0 +1,15 @@
+python-dotenv
+uuid
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langchain-pinecone
+pinecone-client
+transformers
+torch
+newsapi-python
+feedparser
+streamlit
+langchain-text-splitters
